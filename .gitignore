@@ -122,3 +122,6 @@ pnpm-debug.log
 .theia
 
 .results
+
+.env
+node_modules
